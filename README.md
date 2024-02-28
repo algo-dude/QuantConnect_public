@@ -1,7 +1,7 @@
 There is a popular SSRN paper floating around the quant world from some big names in the industry.
 You can find the paper here: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4631351
 
-I am faily sceptical about claims such as:
+I am fairly skeptical about claims such as:
 
 > Our findings reveal that an initial investment of $25,000 in the VWAP Trend Trading strategy with QQQ would have grown to $192,656, net of commissions, yielding a 671% return. This performance is marked by a maximum drawdown of just 9.4% and a Sharpe Ratio of 2.1.
 
