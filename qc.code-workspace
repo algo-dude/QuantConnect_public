@@ -1,0 +1,47 @@
+{
+    "folders": [
+        {
+            "name": "Project",
+            "path": "/Users/sl/Documents/github/quantconnect/VWAP_trend"
+        }
+    ],
+    "settings": {
+        "python.autoComplete.extraPaths": [
+            "/Users/sl/Documents/github/quantconnect/Library"
+        ],
+        "python.analysis.extraPaths": [
+            "/Users/sl/Documents/github/quantconnect/Library"
+        ],
+        "files.autoSave": "afterDelay",
+        "files.exclude": {
+            "**.vscode": true,
+            "**.idea": true,
+            "config.json": true,
+            "qc.code-workspace": true,
+            "bin": true,
+            "obj": true,
+            "backtests": true,
+            "live": true,
+            "optimizations": true,
+            "storage": true,
+            "report": true,
+            "__pycache__": true,
+            ".ipynb_checkpoints": true,
+            ".idea": true,
+            ".vscode": true
+        },
+        "files.watcherExclude": {
+            "bin/**": true,
+            "obj/**": true,
+            "backtests/**": true,
+            "live/**": true,
+            "optimizations/**": true,
+            "storage/**": true,
+            "report/**": true,
+            "__pycache__/**": true,
+            ".ipynb_checkpoints/**": true,
+            ".idea/**": true,
+            ".vscode/**": true
+        }
+    }
+}

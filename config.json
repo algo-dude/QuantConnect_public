@@ -1,0 +1,11 @@
+{
+    "cloud-id": 16570251,
+    "algorithm-language": "Python",
+    "parameters": {},
+    "description": "QQQ VWAP",
+    "organization-id": "ff003aaf57683475be5d089885f2031b",
+    "python-venv": 1,
+    "backtestGrid": {
+        "md": []
+    }
+}
