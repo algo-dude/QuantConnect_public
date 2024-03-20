@@ -7,9 +7,9 @@ I am fairly skeptical about claims such as:
 
 My personal opinion is that profitable research on trading strategies is extremely unlikely to be made public.  I have attempted to recreate this paper's methodology with QuantConnect.  
 
-You can see a full backtest here: https://www.quantconnect.com/reports/2dd44a5c1394e0ba3de9c7f4d7dc0716
+You can see a full backtest here: https://www.quantconnect.com/reports/5ab0007728fd5f090d251ff25b30c58c
 
-You can clone the backtest here: https://www.quantconnect.com/terminal/clone/-/2dd44a5c1394e0ba3de9c7f4d7dc0716/clone-of%3A-emotional-fluorescent-yellow-seahorse
+You can clone the backtest here: https://www.quantconnect.com/terminal/clone/-/5ab0007728fd5f090d251ff25b30c58c/clone-of%3A-energetic-green-rhinoceros
 
 **TLDR:** 
 I do not know why this is a published paper.  Edges this good are not typically made public.  If my logic is wrong, please raise a PR.
