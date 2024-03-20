@@ -12,4 +12,4 @@ You can see a full backtest here: https://www.quantconnect.com/reports/5ab000772
 You can clone the backtest here: https://www.quantconnect.com/terminal/clone/-/5ab0007728fd5f090d251ff25b30c58c/clone-of%3A-energetic-green-rhinoceros
 
 **TLDR:** 
-I do not know why this is a published paper.  Edges this good are not typically made public.  If my logic is wrong, please raise a PR.
+I do not know why this is a published paper.  Edges this good are not disclosed.  If my logic is wrong, please raise a PR.
