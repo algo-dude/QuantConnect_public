@@ -25,8 +25,8 @@ class MinimumOrderSizeBuyingPowerModel(BuyingPowerModel):
 
 class Vwaptrend(QCAlgorithm):
     def Initialize(self):
-        self.SetStartDate(2018, 11, 10)
-        self.SetEndDate(2023, 11, 11)
+        self.SetStartDate(2018, 1, 1)
+        self.SetEndDate(2023, 9, 28)
         self.SetCash(25000)
         self.SetPortfolioConstruction(EqualWeightingPortfolioConstructionModel()) # Equal weighting with assets
         self.SetExecution(ImmediateExecutionModel())
