@@ -12,4 +12,4 @@ You can see a full backtest here: https://www.quantconnect.com/reports/2dd44a5c1
 You can clone the backtest here: https://www.quantconnect.com/terminal/clone/-/2dd44a5c1394e0ba3de9c7f4d7dc0716/clone-of%3A-emotional-fluorescent-yellow-seahorse
 
 **TLDR:** 
-I do not know why this is a published paper.  If my logic is wrong, please raise a PR.
+I do not know why this is a published paper.  Edges this good are not typically made public.  If my logic is wrong, please raise a PR.
